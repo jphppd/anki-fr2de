@@ -225,7 +225,7 @@ s'efforcer, faire des efforts<div><i>un travail astreignant</i></div>	sich an|st
 l'effort	die Anstrengung, en
 pouvoir, être en mesure<div><i>Il ne réussit pas à me convaincre.</i></div>	vermögen (a,o,o)<div><i>Er vermochte mich nicht zu überzeugen.</i></div>
 venir à bout de, réussir qqch<div><i>Elle travaille toute la journée (elle n'arrête pas de la journée).</i></div><div><i>mettre un objet à un autre endroit</i></div><div><i>Cette nouvelle m'a terrassé(e).</i></div><div><i>Nous y sommes enfin arrivés !</i></div><div><i>Il a raté son examen.</i></div><div><i>Il a réussi à me persuader.</i></div>	schaffen (verbe faible)<div><i>Sie schafft den ganzen Tag.</i></div><div><i>einen Gegenstand an einen anderen Ort schaffen</i></div><div><i>Die Nachricht hat mich geschafft.</i></div><div><i>Endlich haben wir's geschafft!</i></div><div><i>Er hat die Prüfung nicht geschafft.</i></div><div><i>Er hat es geschafft, mich zu überreden.</i></div>
-achever<div><i>Une œuvre inachevée</i></div>	vollenden<div><i>ein unvollendetes Werk</i></div>
+achever<div><i>une œuvre inachevée</i></div>	vollenden<div><i>ein unvollendetes Werk</i></div>
 le sentiment<div><i>un sentiment de joie</i></div><div><i>Tu n'as donc rien dans le cœur ?</i></div><div><i>laisser libre cours à ses sentiments</i></div>	das Gefühl, e<div><i>ein Gefühl der Freude</i></div><div><i>Hast du denn kein Gefühl?</i></div><div><i>seinen Gefühlen freien Lauf lassen</i></div>
 sentir<div><i>Il se sent étranger ici.</i></div><div><i>Je sens qu'il ne me fait pas confiance.</i></div><div><i>ressentir une douleur lancinante</i></div>	fühlen<div><i>Er fühlt sich hier fremd.</i></div><div><i>Ich fühle, dass er mir nicht vertraut.<br>einen bohrenden Schmerz fühlen</i></div>
 l'état d'âme, l'atmosphère<div><i>Tous étaient d'humeur joyeuse.</i></div>	die Stimmung, en<div><i>Alle waren in fröhlicher Stimmung.</i></div>
@@ -1770,7 +1770,7 @@ après tout, il n'empêche que, en tout cas<br><i>En tout cas, il s'est excusé.
 omniprésent	allgegenwärtig
 extirper, soutirer qqch à qqn<br><i>arracher un secret à qqn</i>	jm etwas +A entlocken<br><i>jm ein Geheimnis entlocken</i>
 à l'aide de, au moyen de<br><i>illustrer qqch à l'aide d'un exemple</i>	anhand +G<br><i>etwas anhand eines Beispiel illustrieren</i>
-prêter qqch à qqn ; attribuer, décerner (prix, médaille)	jm etwas +A verleihen (ie,ie)
+prêter qqch à qqn ; attribuer, décerner (prix, médaille) ; conférer<br><i>La pépite de caramel donne à la glace une note particulière.</i>	jm/etwas etwas +A verleihen (ie,ie)<br><i>Der Karamellkern verleiht dem Eis eine besondere Note.</i>
 prétendu, soi-disant	angeblich
 combiner, associer, relier qqch à qqch	etwas +A mit etwas +D verknüpfen
 une vue globale, un aperçu<br><i>se faire une idée d'ensemble de qqch</i>	der Überblick, e<br><i>sich +D einen Überblick über etwas +A verschaffen</i>
@@ -1920,3 +1920,40 @@ sobre<br><i>Il vaut mieux conduire en étant sobre.<br>un appartement aménagé 
 désabuser, désillusionner<br><i>Il était désabusé par cette mauvaise expérience.</i>	ernüchtern<br><i>Er war durch diese böse Erfahrung ernüchtert.</i>
 humilier<br><i>Ses mots l'ont profondément blessé et humilié.</i>	demütigen<br><i>Seine Worte haben ihn zutiefst verletzt und gedemütigt.</i>
 le gouffre, le précipice<br><i>être au bord du gouffre</i>	der Abgrund, ¨e<br><i>am Rande des Abgrunds stehen</i>
+déclarer, annoncer, proclamer<br><i>Je proclame ainsi le musée ouvert.</i><br><i>Poutine déclare que l'Ouest est une menace.</i>	erklären für +A (Adj) / zu +D (Namen)<br><i>Hiermit erkläre ich das Museum für eröffnet.</i><br><i>Putin erklärt Westen zur Bedrohung.</i>
+le plateau, le panneau, la plaque, la dalle<br><i>un plateau de fromage</i><br><i>le panneau de fibres de bois</i><br><i>le panneau OSB (oriented strand board)</i><br><i>la dalle en béton</i>	die Platte, n<br><i>eine Platte mit Käse</i><br><i>die (Holz)Faserplatte</i><br><i>die Grobspanplatte</i><br><i>die Betonplatte</i>
+la barre, la baguette, le bâton	der Stab, ¨e
+l'encouragement, le soutien (financier, moral, émotionnel)<div><i>Il y a des aides de l'État pour l'installation de panneaux solaires.</i></div>	die Förderung, en<br><i>Es gibt&nbsp;</i><i>staatliche Förderungen f</i><i>ür den Einbau von Solarpanelen.</i>
+autoriser, habiliter, donner un droit, qualifier à<div><i>Le ticket m'autorise à prendre n'importe quel transport en commun.</i></div>	berechtigen zu +D<div><i>Die Fahrkarte berechtigt mich dazu, mit allen Verkehrsmitteln zu fahren.</i><br></div>
+familier, en terrain connu, proche<br><i>Lorsque je revins à la maison, il fut bon de voir tant de visages familiers.</i><br><i>Je connais bien le fonctionnement de ce lave-linge.</i>	vertraut<br><i>Als ich wieder nach Hause kam, war es schön, so viele vertraute Gesichter zu sehen.</i><br><i>Ich bin mit der Funktionsweise dieser Waschmaschine vertraut.</i>
+l'affectation, l'attribution<br><i>On n'a pas pu attribuer l'empreinte digitale à l'un des suspects.</i>	die Zuordnung, en<br><i>Eine Zuordnung des Fingerabdrucks zu einem der Verdächtigen war nicht möglich.</i>
+ignorer, passer outre<div><i>passer qqn/qqch sous silence</i></div><div><i>Ses arguments ont simplement été ignorés.</i></div>	übergehen (i,a)<div><i>jn/etwas schweigend übergehen</i></div><div><i>Seine Argumente wurden einfach&nbsp;übergangen.<br></i></div>
+l'obsession	die&nbsp;Besessenheit, en
+exhorter, appeler à<br><div><i>Malgré des menaces, le Ministre de l'intérieur appelle à conserver son sang-froid.</i></div>	mahnen zu +D<div><i>Der Innenminister&nbsp;mahnt&nbsp;trotz Bedrohung zu Gelassenheit.</i><br></div>
+recevable, admissible, autorisé<br><i>Ça me semble être une question tout à fait justifiée, mais je ne peux y répondre au pied levé.</i>	zulässig<br><i>Das scheint mir durchaus eine zulässige Frage zu sein, aber ich kann sie aus dem Stegreif nicht beantworten.</i>
+instructif<div><i>L'enseignant a montré plein d'exemples riches d'enseignements au tableau.</i></div>	lehrreich<div><i>Der Lehrer zeigte viele&nbsp;lehrreiche&nbsp;Beispiele an der Tafel.</i><br></div>
+isolé, épars, espacé<div><i>On voyait de temps en temps quelques fermes isolées.</i></div>	vereinzelt<br><i>Ab&nbsp;und&nbsp;zu&nbsp;sah&nbsp;man&nbsp;vereinzelte&nbsp;Bauernhöfe.</i>
+annuler, neutraliser<div><i>Dans cette équation, les deux termes s'annulent.</i></div>	auf|heben (o,o)<div><i>In dieser Gleichung heben sich die zwei Terme auf.</i></div>
+(se) déformer, (se) gauchir, (se) tordre<div><i>faire une grimace</i></div><div><i>Les meubles sont restés dehors et se sont complètement déformés.</i></div>	(sich) verziehen (o,o)<div><i>das Gesicht verziehen</i></div><div><i>Die Möbel standen im Freien und haben sich total&nbsp;verzogen.<br></i></div>
+lasser, épuiser, démoraliser	zermürben
+transmettre, dispenser (savoir), mettre en relation<br><i>Je peux te mettre en relation avec un acheteur.</i><br><i>Ça a pris du temps de lui transmettre le sens du calcul différentiel.</i>	vermitteln<br><i>Ich könnte dir einen Käufer vermitteln.</i><br><i>Es dauerte lange, ihm den Sinn der Differentialrechnung zu vermitteln.</i>
+la suite, la continuation<div><i>la suite au prochain numéro</i></div><div><i>Il a été décidé de poursuivre les négociations.</i></div>	die&nbsp;Fortsetzung, en<div><i>Fortsetzung folgt</i><br></div><div><i>Die&nbsp;Fortsetzung&nbsp;der Verhandlung wurde beschlossen.</i><br></div>
+l'échec, la défaillance<br><i>Les mesures de sécurité ont échoué.</i><br><i>Les autorités attribuèrent la cause de l'accident à une erreur humaine.</i>	das Versagen, -<br><i>Die Sicherheitsmaßnahmen haben versagt.</i><br><i>Die Behörden nannten menschliches Versagen als Unglücksursache.</i>
+assigner, donner des instructions, mandater<br><i>devoir se débrouiller seul</i><br><i>Lors de mon premier jour, le contremaître m'a donné comme instructions de ne travailler qu'avec des habits de protection.</i>	an|weisen (ie,ie)<br><i>auf sich selbst angewiesen sein</i><br><i>An meinem ersten Tag hat der Vorarbeiter mich angewiesen, nur mit Schutzkleidung zu arbeiten.</i>
+la campagne militaire	der Feldzug, ¨e
+le métier, le secteur, l'industrie<div><i>exercer un métier</i></div><div><i>le secteur manufacturier</i></div>	das Gewerbe, -<div><i>ein Gewerbe betreiben</i></div><div><i>das verarbeitende Gewerbe<br></i></div>
+industriel, professionnel<div><i>la licence professionnelle</i></div><div><i>la production industrielle</i></div><div><i>le local à usage commercial</i></div><div><i>Le camion est destiné à un usage professionnel.</i></div>	gewerblich<div><i>gewerbliche Genehmigung</i><br></div><div><i>gewerbliche Produktion</i><br></div><div><i>gewerblich genutzter Raum</i><br></div><div><i>Der Lastwagen wird gewerblich genutzt.</i></div>
+les accessoires (d'un produit)<div><i>Les accessoires sont inclus dans le prix.</i></div>	das Zubehör, e<br><i>Das Zubehör ist im Preis inbegriffen.</i><br>
+la pince (outil)	die Zange, n
+la glu<div><i>encoller</i></div>	der Leim, e<div><i>verleimen</i></div>
+la collecte (de données), l'acquisition, la saisie, l'enregistrement<br><i>La collecte des données des clients se fait via un système électronique.</i>	die Erfassung, en<br><i>Die Erfassung der Kundendaten erfolgt über ein elektronisches System.</i>
+conserver, préserver<div><i>Grâce à un entretien régulier, on a pu préserver longtemps le bâtiment.</i></div>	erhalten (ie,a)<br><div><i>Durch regelmäßige Pflege konnte das Gebäude lange erhalten werden.<br></i></div>
+confiant<div><i>Après avoir pris les préparations nécessaires, il est confiant que le projet sera couronné de succès.</i></div>	zuversichtlich<br><i>Nachdem er die nötigen Vorbereitungen getroffen hat, ist er zuversichtlich, dass das Projekt erfolgreich sein wird.</i><br>
+les honoraires<div><i>Le tarif pour la conférence s'élève à 500 euros.</i></div>	das Honorar, e<div><i>Das Honorar für den Vortrag beträgt 500 Euro.</i><br></div>
+concevoir, élaborer (phase initiale)<br><i>L'entreprise élabore de nouveaux produits pour pouvoir répondre aux besoins du marché.</i>	entwerfen (a,o)<br><i>Das Unternehmen entwirft neue Produkte, um den Marktbedürfnissen gerecht werden zu können.</i>
+assumer<div><i>Il assume ses convictions, même si elles sont impopulaires.</i></div><div><i>Elle assume son passé et a appris de ses expériences.<br></i></div>	zu etwas +D stehen (a,a)<div><i>Er steht zu seinen Überzeugungen, auch wenn sie unbeliebt sind.</i><br></div><div><i>Sie steht zu ihrer Vergangenheit und hat aus ihren Erfahrungen gelernt.<br></i></div>
+l'exemple (à suivre)<br><i>L'entreprise est saluée pour sa gestion exemplaire de l'environnement.</i>	das Vorbild, er<br><i>Das Unternehmen wird für sein vorbildliches Umweltmanagement gelobt.</i>
+avare	geizig
+résoudre par l'attentisme<br><i>Au lieu de prendre une décision, il attend simplement que l'affaire se résolve d'elle-même.</i>	aus|sitzen (a,e)<br><i>Statt eine Entscheidung zu treffen, sitzt er die Angelegenheit einfach aus.</i>
+délicat, risqué, sensible<div><i>Les négociations entre les deux entreprises sont entrées dans une phase délicate.</i><br></div>	heikel<div><i>Die Verhandlungen zwischen den beiden Firmen sind in eine heikle Phase betreten.</i><br></div>
+l'acceptation d'un travail (recette technique)<div><i>Le logiciel a été accepté après une phase de tests approfondis.</i></div>	die Abnahme, n<div><i>Nach einer gründlichen Testphase erfolgte die Abnahme der Software.</i></div>
