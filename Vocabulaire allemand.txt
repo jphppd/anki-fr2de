@@ -45,7 +45,7 @@ dur, cruel envers (2x)<div><i>Ne sois donc pas si cruel envers lui !</i></div>	h
 cher<br><i>Cher ami, ...</i>	lieb<br><i>Lieber Freund, ...</i>
 charmant, gentil avec<div><i>Il a toujours été très gentil avec moi.</i><br><i>des gens charmants, une soirée sympathique<br>C'est très gentil à vous.<br></i></div>	nett zu +D<div><i>Er war immer sehr nett zu mir.</i><br><i>nette Leute, ein netter Abend<br>Das ist sehr nett von Ihnen.</i></div>
 sympathique	sympathisch
-(peu) aimable avec<div><i>Il a toujours été très gentil avec moi.</i></div><div><i>Je ne remettrai pas les pieds dans cette boutique. Ils ont été très désagréables avec moi.&nbsp;</i></div>	(un)freundlich zu +D, liebenswürdig<br><i>Er war immer sehr freundlich zu mir.</i><br><div><i>In diesen Laden gehe ich nicht mehr. Die waren sehr unfreundlich zu mir.</i></div>
+(peu) aimable avec<div><i>Il a toujours été très gentil avec moi.</i></div><div><i>Je ne remettrai pas les pieds dans cette boutique. Ils ont été très désagréables avec moi.</i></div>	(un)freundlich zu +D, liebenswürdig<br><i>Er war immer sehr freundlich zu mir.</i><br><div><i>In diesen Laden gehe ich nicht mehr. Die waren sehr unfreundlich zu mir.</i></div>
 vif, animé	lebhaft
 joyeux, gai	fröhlich
 serein, gai<br><i>un ciel serein, un visage ouvert et souriant, une histoire gaie<br></i>	heiter<br><i>ein heiterer Himmel, ein heiteres Gesicht, eine heitere Geschichte</i>
@@ -311,7 +311,7 @@ craintif	ängstlich
 craindre, redouter; avoir peur de<div><i>Tous le craignent.</i></div><div><i>Elle craignait d'arriver en retard.</i></div><div><i>Il a peur dans l'obscurité.</i></div><div><i>Il a peur de l'inconnu.</i></div><div><i>La société civile craint une guerre.</i></div>	(sich) fürchten (vor +D)<div><i>Alle fürchten ihn.</i></div><div><i>Sir fürchtete, zu spät zu kommen.</i></div><div><i>Er fürchtet sich im Dunkeln.</i></div><div><i>Er fürchtet sich vor dem Unbekannten.</i></div><div><i>Die Zivilbevölkerung fürchtet sich vor einem Krieg.</i></div>
 la crainte<div><i>par crainte des conséquences</i></div>	die Furcht, /<div><i>aus Furcht vor den Folgen</i></div>
 redoutable, terrible (2x)<div><i>La ville a subi de terribles destructions.</i></div>	furchtbar, fürchterlich<div><i>Die Stadt erlitt fürchterliche Zerstörungen.</i></div>
-inquiétant, sinistre<div><i>une apparition,&nbsp;</i><i>atmosphère</i><i>&nbsp;inquiétante</i></div>	unheimlich<div><i>eine unheimliche Erscheinung, Stimmung</i></div>
+inquiétant, sinistre<div><i>une apparition, atmosphère inquiétante</i></div>	unheimlich<div><i>eine unheimliche Erscheinung, Stimmung</i></div>
 tragique	tragisch
 terrible, effrayant<div><i>une terrible nouvelle</i></div>	schrecklich<div><i>eine schreckliche Nachricht</i></div>
 s'effrayer de<div><i>N'aie pas peur !<br></i><i>À cette vue, elle prit peur.</i><i><br></i></div>	erschrecken (i,a,ist o) vor +D<div><i>Erschrick nicht !<br></i><i>Bei diesem Anblick erschrak sie.</i><i><br></i></div>
@@ -427,7 +427,7 @@ le destin<div><i>le destin d'un peuple</i></div><div><i>abandonner qqn à son so
 l'esprit<div><i>L'esprit est prompt, mais la chair est faible.</i></div><div><i>un homme d'esprit</i></div><div><i>Ici, les avis sont partagés.</i></div><div><i>Tu es livide, blanc comme un linge.</i></div>	der Geist, er<div><i>Der Geist ist willig, aber das Fleisch ist schwach.</i></div><div><i>ein Mann von Geist</i></div><div><i>Hier scheiden sich die Geister.</i></div><div><i>Du siehst ja aus wie ein Geist.</i></div>
 intellectuel<div><i>le travail intellectuel</i></div>	geistig<div><i>die geistige Arbeit</i></div>
 intelligent<div><i>Elle est beaucoup plus intelligente que lui.</i></div>	intelligent<div><i>Sie ist viel intelligenter als er.</i></div>
-faire attention à<div><i>Faites attention, s'il-vous-plaît.</i></div><div><i>Tu devrais faire davantage attention à ton vélo.&nbsp;</i></div>	auf|passen auf +A<div><i>Passen Sie bitte auf!</i></div><div><i>Du solltest besser auf dein Fahrrad aufpassen.</i></div>
+faire attention à<div><i>Faites attention, s'il-vous-plaît.</i></div><div><i>Tu devrais faire davantage attention à ton vélo.</i></div>	auf|passen auf +A<div><i>Passen Sie bitte auf!</i></div><div><i>Du solltest besser auf dein Fahrrad aufpassen.</i></div>
 attentif à<div><i>Il me regarda attentivement.</i></div><div><i>Elle a attiré mon attention sur un article de journal extrêmement intéressant.</i></div>	aufmerksam auf +A<div><i>Er sah mich aufmerksam an.</i></div><div><i>Sie hat mich auf einen höchst interessanten Zeitungsartikel aufmerksam gemacht.</i></div>
 distrait	zerstreut
 s'apercevoir, se rendre compte<div><i>Il s'aperçut qu'on se moquait de lui.</i></div><div><i>Tiens-le-toi pour dit!</i></div>	merken<div><i>Er merkte, dass man über ihn lachte.</i></div><div><i>Merk dir das!</i></div>
@@ -452,7 +452,7 @@ en cachette, en secret, clandestin	heimlich
 résoudre<div><i>résoudre un problème, une énigme</i></div>	lösen<div><i>ein Problem, ein Rätsel lösen</i></div>
 la solution	die Lösung, en
 comprendre<div><i>Il parlait si doucement qu'on ne comprenait pas un mot.</i></div><div><i>Vous m'avez bien compris.</i></div>	verstehen (an,an)<div><i>Er sprach so leise, dass man kein Wort verstand.</i></div><div><i>Sie haben mich richtig verstanden.</i></div>
-(in)compréhensible (2x)&nbsp;<div><i>Je ne comprends rien à la physique quantique.</i><br></div><div><i>Je ne comprends pas son attitude.</i><i><br></i></div><div><i>Son discours était incompréhensible à cause du bruit ambiant.</i></div>	(un)verständlich, (un)begreiflich +D<div><i>Quantenphysik ist mir&nbsp;</i><i>ganz unbegreiflich</i><i>/</i><i>unverständlich</i><i>.</i></div><div><i>Seine Haltung ist mir ganz unbegreiflich/</i><i>unverständlich</i><i>.</i><i><br></i></div><div><i>Wegen des Lärms war seine Rede unverständlich.</i></div>
+(in)compréhensible (2x)<br><i>Je ne comprends rien à la physique quantique.</i><br><i>Je ne comprends pas son attitude.</i><br><i>Son discours était incompréhensible à cause du bruit ambiant.</i>	(un)verständlich, (un)begreiflich +D<br><i>Quantenphysik ist mir ganz unbegreiflich /unverständlich</i><br><i>Seine Haltung ist mir ganz unbegreiflich /unverständlich.</i><br><i>Wegen des Lärms war seine Rede unverständlich.</i>
 qui va de soi, évident<div><i>une réponse qui va de soi</i></div><div><i>Venez-vous ce soir ? Cela va sans dire.</i></div>	selbstverständlich<div><i>eine selbstverständliche Antwort</i></div><div><i>Kommen Sie heute abend? Selbstverständlich.</i></div>
 saisir, comprendre<div><i>J'ai tout de suite saisi le véritable motif.</i></div><div><i>Je n'arrive pas à saisir pourquoi il a fait cela.</i></div>	begreifen (iff,iffen)<div><i>Ich habe den eigentlichen Grund sofort begriffen.</i></div><div><i>Ich kann nicht begreifen, warum er das gemacht hat.</i></div>
 la notion, le concept<div><i>Il est dur à la détente.</i></div><div><i>Tucholsky ? Non, ça ne ne me dit rien</i></div><div><i>J'emploie le terme au sens purement scientifique.</i></div>	der Begriff, e<div><i>Er ist schwer/langsam von Begriff.</i></div><div><i>Tucholsky? Ist mir kein Begriff.</i></div><div><i>Ich benutze den Begriff im rein wissenschaftlichen Sinn.</i></div>
@@ -461,7 +461,7 @@ la clarté	die Klarheit, /
 distinct	deutlich
 se douter de, pressentir<div><i>Elle était malade, mais personne ne s'en doutait.</i></div><div><i>Il pressentait qqch de grave.</i></div>	ahnen +A<div><i>Sie war krank, aber niemand ahnte es.</i></div><div><i>Er ahnte Schlimmes.</i></div>
 le pressentiment, l'idée<div><i>Je n'ai aucune idée de l'endroit où il se trouve.</i></div>	die Ahnung, en<div><i>Ich habe keine Ahnung, wo er ist.</i></div>
-savoir, connaître (information)<div><i>Est-ce que qqn connaît le chemin?</i></div><div><i>Je ne sais pas comment il s'appelle.</i></div><div><i>Je le connais, mais j'ignore son nom.</i></div><div><i>Est-ce que par hasard tu connais son numéro de téléphone ?</i></div><div><i>Et pourquoi est-ce que je le saurais ?</i></div><div><i>Je n'en savais rien.</i></div>	wissen, weiß, wusste, hat gewusst<div><i>Wei</i><i>ß</i><i>&nbsp;jemand den Weg?</i></div><div><i>Ich wei</i><i>ß</i><i>&nbsp;nicht, wie er heißt.</i></div><div><i>Ich kenne ihn, aber ich wei</i><i>ß</i><i>&nbsp;seinen Namen nicht.</i></div><div><i>Wei</i><i>ß</i><i>t du zufällig seine Telefonnummer?</i></div><div><i>Woher soll ich das wissen?</i></div><div><i>Ich wusste nichts davon.</i></div>
+savoir, connaître (information)<br><i>Est-ce que qqn connaît le chemin?</i><br><i>Je ne sais pas comment il s'appelle.</i><br><i>Je le connais, mais j'ignore son nom.</i><br><i>Est-ce que par hasard tu connais son numéro de téléphone ?</i><br><i>Et pourquoi est-ce que je le saurais ?</i><br><i>Je n'en savais rien.</i>	wissen, weiß, wusste, hat gewusst<br><i>Weiß jemand den Weg?</i><br><i>Ich weiß nicht, wie er heißt.</i><br><i>Ich kenne ihn, aber ich weiß seinen Namen nicht.</i><br><i>Weißt du zufällig seine Telefonnummer?</i><br><i>Woher soll ich das wissen?</i><br><i>Ich wusste nichts davon.</i>
 conscient, délibéré<div><i>un mensonge conscient.</i></div><div><i>Il a fait cela consciemment.</i></div>	bewusst<div><i>eine bewusste Lüge</i></div><div><i>Er hat das bewusst gemacht.</i></div>
 connaître<div><i>Je connais très bien votre père.</i></div><div><i>Connaissez-vous Munich?</i></div>	kennen (a,a)<div><i>Ich kenne Ihren Vater sehr gut.</i></div><div><i>Kennen Sie München?</i></div>
 la connaissance<div><i>Il n'a que des connaissances imprécises.</i></div>	die Kenntnis, se<div><i>Er hat nur ungenaue Kenntnisse.</i></div>
@@ -472,7 +472,7 @@ le souvenir<div><i>Ce sont de beaux souvenirs.</i></div>	die Erinnerung, en<div>
 oublier<div><i>Vous avez oublié l'essentiel.</i></div><div><i>Elle oublia de le lui dire.</i></div>	vergessen (i,aß,ess)<div><i>Sie haben die Hauptsache vergessen.</i></div><div><i>Sie vergaß, es ihm zu sagen.</i></div>
 distrait, qui oublie<div><i>En vieillissant, on perd de plus en plus la mémoire.</i></div>	vergesslich<div><i>Im Alter wird man immer vergesslicher.</i></div>
 se représenter, s'imaginer<div><i>Je n'arrive vraiment pas à me représenter la chose.</i></div>	sich vor|stellen<div><i>Ich kann mir die Sache einfach nicht vorstellen.</i></div>
-l'opinion, l'avis (2x)<div><i>à mon avis</i></div><div><i>Elle était du même avis que moi à ce sujet.</i></div><div><i>partager une opinion</i></div><div><i>C'est&nbsp;un&nbsp;point&nbsp;de&nbsp;vue&nbsp;largement&nbsp;répandu.<br></i></div>	die Meinung, en / die Ansicht, en<div><i>meiner Meinung nach</i></div><div><i>Sie hatte darüber die gleiche Meinung wie ich.</i></div><div><i>eine Meinung teilen</i></div><div><i>Es&nbsp;ist&nbsp;eine&nbsp;weit&nbsp;verbreitete&nbsp;Ansicht.<br></i></div>
+l'opinion, l'avis (2x)<br><i>à mon avis</i><br><i>Elle était du même avis que moi à ce sujet.</i><br><i>partager une opinion</i><br><i>C'est un point de vue largement répandu.</i>	die Meinung, en / die Ansicht, en<br><i>meiner Meinung nach</i><br><i>Sie hatte darüber die gleiche Meinung wie ich.</i><br><i>eine Meinung teilen</i><br><i>Es ist eine weit verbreitete Ansicht.</i>
 être d'avis, penser<div><i>Qu'en pensez-vous ?</i></div><div><i>C'est comme vous pensez !</i></div><div><i>Il pensa d'abord que j'étais Suédoise.</i></div><div><i>Ça ne fait rien, fit-il.</i></div>	meinen<div><i>Was meinen Sie dazu/damit?</i></div><div><i>Wie Sie meinen!</i></div><div><i>Er meinte zuerst, ich sei Schwedin.</i></div><div><i>Macht nichts, meinte er.</i></div>
 supposer, présumer<div><i>Je suppose qu'il a oublié le rendez-vous (2x).</i></div>	vermuten<div><i>Ich vermute, dass er die Verabredung/den Termin vergessen hat.</i></div>
 probablement, on peut supposer que	vermutlich
@@ -660,7 +660,7 @@ superficiel	oberflächlich
 (s')exprimer (sur 2x)<div><i>Désirez-vous vous exprimer sur ce point ?</i></div><div><i>Je ne souhaite pas m'exprimer sur ce sujet.</i></div><div><i>Il ne manifeste pas volontiers ses sentiments.</i></div>	(sich) äußern (über +A, zu +D)<div><i>Möchten Sie sich zu diesem Punkt äußern?</i></div><div><i>Ich möchte mich über dieses Thema nicht äußern.</i></div><div><i>Er äußert ungern seine Gefühle.</i></div>
 mentionner<div><i>Il mentionna brièvement les derniers événements.</i></div>	erwähnen<div><i>Er erwähnte kurz die letzten Ereignisse.</i></div>
 l'allusion	die Andeutung, en
-attirer l'attention, indiquer, rappeler&nbsp;<div><i>Elle attira l'attention sur les avantages de cette solution.</i></div><div><i>Les experts attirent l'attention sur le danger de cette centrale nucléaire.</i></div><div><i>Dois-je vous rappeler que vous n'avez pas le droit de fumer ici.</i></div>	hin|weisen (ei,ie,ie) auf +A<div><i>Sie wies auf die Vorteile dieser Lösung hin.</i></div><div><i>Die Experten weisen auf die Gefahr dieses Kernkraftwerks hin.</i></div><div><i>Darf ich Sie darauf hinweisen, dass Rauchen hier verboten ist?</i></div>
+attirer l'attention, indiquer, rappeler<div><i>Elle attira l'attention sur les avantages de cette solution.</i></div><div><i>Les experts attirent l'attention sur le danger de cette centrale nucléaire.</i></div><div><i>Dois-je vous rappeler que vous n'avez pas le droit de fumer ici.</i></div>	hin|weisen (ei,ie,ie) auf +A<div><i>Sie wies auf die Vorteile dieser Lösung hin.</i></div><div><i>Die Experten weisen auf die Gefahr dieses Kernkraftwerks hin.</i></div><div><i>Darf ich Sie darauf hinweisen, dass Rauchen hier verboten ist?</i></div>
 l'indication, le renvoi à	der Hinweis, e
 prédire, pronostiquer<div><i>Je l'avais pourtant prédit !</i></div>	voraus|sagen<div><i>Ich hatte es doch vorausgesagt!</i></div>
 mettre l'accent sur, insister<div><i>Il mit à plusieurs reprises l'accent sur cet argument.</i></div>	betonen<div><i>Er betonte dieses Argument mehrmals.</i></div>
@@ -712,7 +712,7 @@ le passage d'un texte<div><i>citer, expliquer un passage</i></div>	die Stelle, n
 former, donner une formation<div><i>Beaucoup de firmes forment elles-mêmes leurs collaborateurs.</i></div><div><i>Il a eu une formation d'informaticien.</i></div>	aus|bilden<div><i>Viele Firmen bilden ihre Mitarbeiter selber aus.</i></div><div><i>Er ist als Informatiker ausgebildet.</i></div>
 la formation<div><i>Elle a une bonne formation de secrétaire.</i></div>	die Ausbildung, en<div><i>Sie hat eine gute Ausbildung als Sekretärin.</i></div>
 l'enseignement, le cours	der Unterricht, /
-la conférence<div><i>faire, écouter une conférence</i></div><div><i>une conférence sur la protection de l'environnement</i></div>	der Vortrag, ¨e&nbsp;<div><i>einen Vortrag halten, hören</i></div><div><i>ein Vortrag über den Umweltschutz</i></div>
+la conférence<div><i>faire, écouter une conférence</i></div><div><i>une conférence sur la protection de l'environnement</i></div>	der Vortrag, ¨e<div><i>einen Vortrag halten, hören</i></div><div><i>ein Vortrag über den Umweltschutz</i></div>
 le résumé	die Zusammenfassung, en
 l'exemple<div><i>par exemple</i></div>	das Beispiel, e<div><i>zum Beispiel (z. B.)</i></div>
 l'exception<div><i>C'est l'exception qui confirme la règle.</i></div>	die Ausnahme, n<div><i>Ausnahmen bestätigen die Regel.</i></div>
@@ -769,7 +769,7 @@ l'ascension<div><i>l'essor économique de l'Europe</i></div>	der Aufstieg, e<div
 la chute, le déclin, le naufrage<div><i>la chute de l'Empire romain</i></div>	der Untergang, /<div><i>der Untergang des römischen Reiches</i></div>
 le règne, la domination	die Herrschaft, en
 éclater (événement)<div><i>La seconde guerre mondiale a éclaté en 1939.</i></div>	aus|brechen (i,a, ist o)<div><i>Der zweite Weltkrieg ist 1939 ausgebrochen.</i></div>
-réunir, unir<div><i>Nos avis sont&nbsp;inconciliables.</i></div>	vereinigen<div><i>Unsere Ansichten lassen sich nicht vereinigen.</i></div>
+réunir, unir<div><i>Nos avis sont inconciliables.</i></div>	vereinigen<div><i>Unsere Ansichten lassen sich nicht vereinigen.</i></div>
 le marché<div><i>le marché mondial</i></div><div><i>le marché de l'automobile</i></div><div><i>le marché noir</i></div>	der Markt, ¨e<div><i>der Weltmarkt</i></div><div><i>der Automarkt</i></div><div><i>der schwarze Markt</i></div>
 l'économie<div><i>l'économie de marché</i></div><div><i>l'agriculture</i></div>	die Wirtschaft, /<div><i>die Marktwirtschaft</i></div><div><i>die Landwirtschaft</i></div>
 le créneau, le débouché	die Marktlücke, n
@@ -1038,7 +1038,7 @@ le contraire<div><i>au contraire (de)</i></div>	das Gegenteil, e<div><i>im Gegen
 mais (au contraire)<div><i>Ce n'est pas noir mais gris foncé.</i></div>	sondern<div><i>Das ist nicht schwarz, sondern dunkelgrau.</i></div>
 d'une part ... d'autre part<div><i>D'une part l'affaire l'intéressait, d'autre part il voyait aussi certaines difficultés.</i></div>	einerseits ... andererseits<div><i>Einerseits interessierte ihn die Sache, andererseits sah er auch gewisse Schwierigkeiten.</i></div>
 en outre<div><i>Il est cultivé, en outre il présente bien.</i></div><div><i>En outre, je voudrais encore dire la chose suivante.</i></div>	außerdem<div><i>Er ist gebildet, außerdem macht er einen guten Eindruck.</i></div><div><i>Außerdem möchte ich noch Folgendes sagen.</i></div>
-en revanche, par contre (2x)<div><i>Dans le Nord, il pleuvait, en revanche il faisait beau dans le Sud.</i></div>	dagegen, hingegen<div><i>Im Norden regnete es, im Süden war&nbsp;</i><i>dagegen&nbsp;</i><i>schönes Wetter.</i></div>
+en revanche, par contre (2x)<br><i>Dans le Nord, il pleuvait, en revanche il faisait beau dans le Sud.</i>	dagegen, hingegen<br><i>Im Norden regnete es, im Süden war dagegen schönes Wetter.</i>
 tandis que<div><i>Elle est très vive, tandis que son mari est un homme plutôt calme.</i></div>	während (conj. de subord.)<div><i>Sie ist sehr lebhaft, während ihr Mann ein eher ruhiger Mensch ist.</i></div>
 excepté, sauf<div><i>tous sauf lui</i></div><div><i>Ouvert tous les jours sauf le lundi.</i></div>	außer +D<div><i>alle außer ihm</i></div><div><i>Täglich geöffnet, außer Montag.</i></div>
 au lieu de<div><i>Elle rit au lieu de répondre.</i></div>	statt ... zu<div><i>Sie lachte, statt zu antworten.</i></div>
@@ -1064,7 +1064,7 @@ en effet, c'est que<div><i>Il va habiter à Berne, il a en effet trouvé une pla
 la condition<div><i>Il posa deux conditions.</i></div><div><i>à cette condition</i></div><div><i>à condition que...</i></div>	die Bedingung, en<div><i>Er stellte zwei Bedingungen.</i></div><div><i>unter dieser Bedingung</i></div><div><i>unter der Bedingung, dass...</i></div>
 au cas où<div><i>Téléphonez-moi au cas où vous ne pourriez pas venir.</i></div>	falls (conj. de subord.)<div><i>Falls Sie nicht kommen können, rufen Sie mich bitte an.</i></div>
 le cas<div><i>dans ce cas</i></div><div><i>en tout cas, en aucun cas</i></div>	der Fall, ¨e<div><i>in diesem Fall</i></div><div><i>auf jeden Fall, auf keinen Fall</i></div>
-en tout cas<div><i>Faites ce que vous voudrez, en tout cas vous pouvez compter sur moi.</i></div>	jedenfalls<div><i>Machen Sie, was Sie wollen;&nbsp;</i><i>auf mich&nbsp;</i><i>können Sie&nbsp;</i><i>jedenfalls&nbsp;</i><i>zählen.</i></div>
+en tout cas<br><i>Faites ce que vous voudrez, en tout cas vous pouvez compter sur moi.</i>	jedenfalls<br><i>Machen Sie, was Sie wollen; auf mich können Sie jedenfalls zählen.</i>
 à la rigueur<div><i>Je peux à la rigueur comprendre que...</i></div>	allenfalls<div><i>Ich kann allenfalls verstehen, dass...</i></div>
 sinon, autrement<div><i>Dépêche-toi, autrement nous serons en retard.</i></div><div><i>Désirez-vous encore quelques chose ?</i></div>	sonst<div><i>Mach schnell, sonst kommen wir zu spät.</i></div><div><i>Sonst noch etwas bitte?</i></div>
 malgré<div><i>Nous sommes allés nous promener malgré un brouillard épais.</i></div><div><i>malgré tout</i></div>	trotz +G/D<div><i>Wir sind trotz dichten Nebels spazierengegangen.</i></div><div><i>trotz allem</i></div>
@@ -1115,7 +1115,7 @@ l'année<div><i>cette année, l'an dernier, l'an prochain</i></div><div><i>À se
 le mois<div><i>un bébé de six mois</i></div><div><i>Le mois dernier, le président a démissionné. </i></div><div><i>votre lettre du 10 courant</i></div>	der Monat, e<div><i>ein sechs Monate altes Baby</i></div><div><i>Letzten Monat ist der Präsident zurückgetreten.</i></div><div><i>ihr Schreiben vom 10. dieses Monats</i></div>
 janvier<div><i>en janvier</i></div><div><i>début janvier</i></div><div><i>mi-janvier</i></div><div><i>fin janvier</i></div>	der Januar<div><i>im Januar</i></div><div><i>Anfang Januar</i></div><div><i>Mitte Januar</i></div><div><i>Ende Januar</i></div>
 la date<div><i>Quel jour sommes-nous ? Le 3 septembre.</i></div><div><i>Bâle, le 9 août 2019</i></div><div><i>Elle est née le 7 avril.</i></div>	das Datum, die Daten<div><i>Der wievielte ist heute ? Heute ist der 3. September.</i></div><div><i>Basel, 09. August 2019</i></div><div><i>Sie ist am 7. April geboren.</i></div>
-le printemps ; l'été ; l'automne ; l'hiver	der Frühling, e; der Sommer, -; der Herbst, es, e; der Winter, -&nbsp;
+le printemps ; l'été ; l'automne ; l'hiver	der Frühling, e; der Sommer, -; der Herbst, es, e; der Winter, -
 le dimanche<div><i>Le dimanche, elle est rarement chez elle.</i></div><div><i>Tous les dimanches, il va à la montagne.</i></div><div><i>fermé les dimanches et jours fériés</i></div><div><i>Le restaurant est fermé le dimanche.</i></div>	der Sonntag, e<div><i>Am Sonntag ist sie selten zu Hause.</i></div><div><i>Jeden Sonntag fährt er in die Berge.</i></div><div><i>an Sonn- und Feiertagen geschlossen.</i></div><div><i>Das Restaurant ist sonntags geschlossen.</i></div>
 le jour<div><i>bonjour</i></div><div><i>il y a huit jours</i></div><div><i>hier, la veille</i></div><div><i>dans quinze jours</i></div><div><i>demain, le lendemain</i></div><div><i>toute la journée</i></div><div><i>Un jour, il disparut.</i></div><div><i>aujourd'hui en huit</i></div><div><i>Il vit au jour le jour.</i></div>	der Tag, e<div><i>guten Tag</i></div><div><i>vor acht Tagen</i></div><div><i>am Tag vorher</i></div><div><i>in vierzehn Tagen</i></div><div><i>am nächsten, am folgenden Tag</i></div><div><i>den ganzen Tag</i></div><div><i>Eines Tages verschwand er.</i></div><div><i>heute in acht Tagen</i></div><div><i>Er lebt in den Tag hinein.</i></div>
 le matin<div><i>ce matin</i></div><div><i>Le matin, je bois habituellement du thé.</i></div><div><i>du matin au soir</i></div><div><i>Le matin, il fait généralement une petite promenade.</i></div>	der Morgen, -<div><i>heute morgen</i></div><div><i>Am Morgen trinke ich gewöhnlich Tee.</i></div><div><i>vom Morgen bis zum Abend</i></div><div><i>Er macht morgens meist einen kurzen Spaziergang.</i></div>
@@ -1279,7 +1279,7 @@ rencontrer<div><i>Je l'ai rencontré par hasard en allant au bureau.</i></div>	b
 la rencontre	die Begegnung, en
 s'adresser à qqn<div><i>Il s'est adressé directement à moi.</i></div><div><i>Ce livre ne s'adresse qu'aux spécialistes.</i></div>	sich wenden (wandte,gewandt) an +A<div><i>Er wandte sich direkt an mich.</i></div><div><i>Das Buch wendet sich nur an Fachleute.</i></div>
 aborder qqn<div><i>Il m'a adressé la parole dans la rue.</i></div>	jn an|reden<div><i>Er hat mich auf der Straße angeredet.</i></div>
-connu<div><i>Je ne connaissais pas cette nouvelle.</i></div><div><i>Louis est connu en tant que bon conteur.</i></div><div><i>L'acteur était connu auprès des petits et&nbsp;</i><i>des grands</i><i>.</i></div><div><i>Max et Moritz sont connus pour leurs bêtises.<br></i><div><i>qqn que l'on connaît</i></div><div><i>une connaissance</i></div></div>	bekannt<div><i>Diese Nachricht war mir nicht bekannt. (+D)</i></div><div><i>Ludwig ist bekannt als guter Geschichtenerzähler. (als)</i></div><div><i>Der Schauspieler war bei Jung und Alt bekannt. (bei +D)</i></div><div><i>Max und Moritz sind für ihre dummen Streiche bekannt. (für +A)</i></div><div><div><i>der Bekannte</i></div><div><i>ein Bekannter</i></div></div>
+connu<br><i>Je ne connaissais pas cette nouvelle.</i><br><i>Louis est connu en tant que bon conteur.</i><br><i>L'acteur était connu auprès des petits et des grands.</i><br><i>Max et Moritz sont connus pour leurs bêtises.</i><br><i>qqn que l'on connaît</i><br><i>une connaissance</i>	bekannt<br><i>Diese Nachricht war mir nicht bekannt. (+D)</i><br><i>Ludwig ist bekannt als guter Geschichtenerzähler. (als)</i><br><i>Der Schauspieler war bei Jung und Alt bekannt. (bei +D)</i><br><i>Max und Moritz sind für ihre dummen Streiche bekannt. (für +A)</i><br><i>der Bekannte</i><br><i>ein Bekannter</i>
 inconnu<div><i>un inconnu</i></div>	unbekannt<div><i>ein Unbekannter</i></div>
 étranger<div><i>un étranger, qqn que l'on ne connaît pas</i></div><div><i>Je ne suis pas d'ici.</i></div><div><i>Je ne connais pas cette ville.</i></div>	fremd +D<div><i>ein Fremder</i></div><div><i>Ich bin hier fremd.</i></div><div><i>Diese Stadt ist mir fremd.</i></div>
 présenter<div><i>Puis-je me présenter ? Je m'appelle Sachs</i></div><div><i>Il m'a présenté à sa femme.</i></div>	vor|stellen<div><i>Darf ich mich vorstellen? Mein Name ist Sachs.</i></div><div><i>Er stellte mich seiner Frau vor.</i></div>
@@ -1301,7 +1301,7 @@ saluer<div><i>Saluez-le de ma part !</i></div>	grüßen<div><i>Grüßen Sie ihn 
 se saluer<div><i>Ils se sont salués comme de vieilles connaissances.</i></div>	sich begrüßen<div><i>Sie begrüßten sich wie alte Bekannte.</i></div>
 la salutation<div><i>Meilleures salutations !</i></div>	der Gruß, es, ¨e<div><i>Herzliche Grüße!</i></div>
 prendre congé de (2x)<div><i>Je dois malheureusement prendre congé de vous.</i></div>	sich verabschieden; Abschied nehmen (i,a,o) von +D<div><i>Ich muss leider von Ihnen Abschied nehmen.</i></div><div><i>Ich muss mich leider von Ihnen verabschieden.</i><i><br></i></div>
-prier, demander de faire qqch ; demander qqch à qqn<div><i>Je l'ai prié d'attendre un instant.</i></div><div><i>Il lui demanda du feu.</i></div><div><i>Elle m'a prié de l'excuser.</i></div><div><i>Je te demande un service.</i></div><div><i>Il me demanda conseil.</i></div>	jn bitten (a,e) um +A<div><i>Ich habe ihn gebeten, einen Augenblick&nbsp;</i><i>zu warten.</i></div><div><i>Er bat ihn um Feuer.</i></div><div><i>Sie hat mich um Verzeihung gebeten.</i></div><div><i>Ich bitte dich um einen Gefallen.</i></div><div><i>Er fragte mich um Rat.</i></div>
+prier, demander de faire qqch ; demander qqch à qqn<div><i>Je l'ai prié d'attendre un instant.</i></div><div><i>Il lui demanda du feu.</i></div><div><i>Elle m'a prié de l'excuser.</i></div><div><i>Je te demande un service.</i></div><div><i>Il me demanda conseil.</i></div>	jn bitten (a,e) um +A<div><i>Ich habe ihn gebeten, einen Augenblick</i><i>zu warten.</i></div><div><i>Er bat ihn um Feuer.</i></div><div><i>Sie hat mich um Verzeihung gebeten.</i></div><div><i>Ich bitte dich um einen Gefallen.</i></div><div><i>Er fragte mich um Rat.</i></div>
 la prière, la demande	die Bitte, n
 remercier qqn de qqch<div><i>Je vous remercie pour la lettre.</i></div>	danken +D für +A<div><i>Ich danke Ihnen für den Brief.</i></div>
 reconnaissant de<div><i>Je vous suis reconnaissant de votre aide.</i></div>	jm dankbar für +A<div><i>Ich bin Ihnen für Ihre Hilfe dankbar.</i></div>
@@ -1442,7 +1442,7 @@ déménager<div><i>Les Muller ont déménagé le mois dernier.</i></div>	um|zieh
 installer, arranger, aménager<div><i>installer un appartement, un bureau</i></div><div><i>Nous devons nous arranger pour avoir fini dès aujourd'hui.</i></div>	ein|richten<div><i>eine Wohnung, ein Büro einrichten</i></div><div><i>Wir müssen es so einrichten, dass wir heute noch fertig werden.</i></div>
 l'installation, l'arrangement	die Einrichtung, en
 où l'on se sent à l'aise, agréable, confortable<div><i>une soirée agréable et sympathique, une chambre intime et confortable</i></div>	gemütlich<div><i>ein gemütlicher Abend, ein gemütliches Zimmer</i></div>
-l'entrée, la sortie	der Eingang, der Ausgang, ¨e&nbsp;
+l'entrée, la sortie	der Eingang, der Ausgang, ¨e
 ouvrir (2x)<div><i>ouvrir la fenêtre, les yeux</i></div><div><i>Le magasin ouvre à 8 heures.</i></div>	auf|machen, öffnen<div><i>das Fenster, die Augen aufmachen</i></div><div><i>Das Geschäft öffnet um 8 Uhr.</i></div>
 ouvert (à)<div><i>une fenêtre ouverte</i></div><div><i>parler ouvertement</i></div><div><i>Le chef est toujours ouvert à de telles propositions d'améliorations.</i></div>	offen (für +A)<div><i>ein offenes Fenster</i></div><div><i>offen reden</i></div><div><i>Für solche Verbesserungsvorschläge ist der Chef doch immer offen.</i></div>
 fermer (2x)<div><i>Fermez la porte, s'il-vous-plaît.</i></div><div><i>Le magasin ferme à six heures et demie.</i></div>	zu|machen; schließen (oß,ossen)<div><i>Machen Sie bitte die Tür zu.</i></div><div><i>Das Geschäft schließt um halb sieben.</i></div>
@@ -1743,7 +1743,7 @@ l'évaluation	die Bewertung, en
 autonome, à part entière	eigenständig
 la pénurie (2x) ; la concision, le laconisme	die Verknappung; die Knappheit
 l'encadrement, l'accompagnement, la prise en charge<br><i>encadrer un stagiaire</i>	die Betreuung, en<br><i>einen Praktikanten betreuen</i>
-la prétention à, l'exigence, la réclamation<br><i>revendiquer,&nbsp;</i><i>réclamer qqch</i><br><i>s'attribuer (légitimement ou non)&nbsp;</i><i>le droit de/à</i><i><br></i><i>avoir (légitimement) le droit de/à</i><i><br>exigeant, prestigieux</i>	der Anspruch, ¨e<br><i>auf etwas (+A) Anspruch erheben</i><br><i>etwas (+A) für sich in Anspruch nehmen</i><br><i>auf etwas (+A) Anspruch habe</i><i>n</i><i><br>anspruchsvoll</i>
+la prétention à, l'exigence, la réclamation<br><i>revendiquer</i><i>réclamer qqch</i><br><i>s'attribuer (légitimement ou non)</i><i>le droit de/à</i><i><br></i><i>avoir (légitimement) le droit de/à</i><i><br>exigeant, prestigieux</i>	der Anspruch, ¨e<br><i>auf etwas (+A) Anspruch erheben</i><br><i>etwas (+A) für sich in Anspruch nehmen</i><br><i>auf etwas (+A) Anspruch habe</i><i>n</i><i><br>anspruchsvoll</i>
 le rapport, la relation, la référence<br><i>Par rapport à quoi ? Par rapport au projet.<i><br><i>En ce qui concerne ce projet, je pense que...</i></i></i>	der Bezug, ¨e<br><i>In Bezug worauf? In Bezug auf das Projekt.<i><br><i>Bezüglich des Projekts denke ich, dass...<i></i></i></i></i>
 rancunier	nachtragend
 la prise en compte, l'intégration<div><i>compte-tenu des circonstances</i></div><div><i>Il n'est malheureusement pas possible actuellement de prendre en compte votre demande.</i></div>	die Berücksichtigung, en<div><i>unter Berücksichtigung der Umstände</i></div><div><i>Eine Berücksichtigung Ihres Antrags ist zurzeit leider nicht möglich.</i></div>
@@ -1800,12 +1800,12 @@ l'agriculture, le labourage	der Ackerbau (/)
 piller, saccager	plündern
 éloigné, reculé, excentré, isolé	entlegen
 l'otage	die Geisel, n
-parvenir, accéder,&nbsp;rallier un endroit/qqch<div><i>devenir riche</i></div><div><i>tomber entre de mauvaises mains</i></div>	zu +D gelangen<div><i>zu Reichtum gelangen</i><br></div><div><i>in falsche Hände gelangen</i></div>
+parvenir, accéder, rallier un endroit/qqch<div><i>devenir riche</i></div><div><i>tomber entre de mauvaises mains</i></div>	zu +D gelangen<div><i>zu Reichtum gelangen</i><br></div><div><i>in falsche Hände gelangen</i></div>
 le raid, l'incursion	der Einfall, ¨e
 se rendre, se transporter, s'acheminer	sich begeben nach +D
 la tribu, la race	der Stamm, ¨e
 le tronc d'arbre, la bûche	der Stamm, ¨e
-soutenir, exploiter, pratiquer<div><i>Depuis la mort de son fondateur, l'entreprise est gérée par ses descendants.</i></div>	betreiben (ie,ie)<div><i>Seit der ursprüngliche Inhaber der Firma verstarb,&nbsp;betreiben&nbsp;seine Nachfahren diese.</i><br></div>
+soutenir, exploiter, pratiquer<div><i>Depuis la mort de son fondateur, l'entreprise est gérée par ses descendants.</i></div>	betreiben (ie,ie)<div><i>Seit der ursprüngliche Inhaber der Firma verstarb, betreiben seine Nachfahren diese.</i><br></div>
 le propriétaire, le titulaire, le détenteur	der Inhaber, -/die Inhaberin, innen
 le descendant (généalogie)	der Nachfahre, n
 destituer, révoquer qqn/qqch	jn/etwas ab|setzen
@@ -1813,7 +1813,7 @@ contenir, renfermer, englober, encercler	umfassen
 chasser, déloger, expulser qqn/qqch	etwas/jn vertreiben
 la prévision (2x)<br><i>la prévision de croissance</i><br><i>les prévisions météorologiques</i>	die Vorhersage, n; die Prognose, n<br><i>die Wachstumprognose</i><br><i>die Wettervorhersage, n</i>
 le soupçon<br><i>être soupçonné</i>	der Verdacht, /<br><i>im Verdacht stehen</i>
-après coup, ultérieurement (avec du retard)<div><i>Il est encore temps de la féliciter.</i></div>	nachträglich<div><i>Du kannst ihr ja noch&nbsp;nachträglich&nbsp;gratulieren.</i><br></div>
+après coup, ultérieurement (avec du retard)<div><i>Il est encore temps de la féliciter.</i></div>	nachträglich<div><i>Du kannst ihr ja noch nachträglich gratulieren.</i><br></div>
 critiquer<br><i>L'opposition critique l'absence de courage du gouvernement.</i>	bemängeln<br><i>Die Opposition bemängelt den fehlenden Mut der Regierung.</i>
 crédule, naïf	leichtgläubig
 la garantie<br><i>se porter garant de</i>	die Gewähr, /<br><i>die Gewähr für etwas übernehmen</i>
@@ -1837,7 +1837,7 @@ entretenir, maintenir en état	etwas (+A) instand halten
 temporaire, passager, transitoire	vorübergehend
 autrement, à part ça, au demeurant	ansonsten
 compte tenu de, au regard de, vu qqch	angesichts +G
-le supérieur hiérarchique	der&nbsp;Vorgesetzte, n
+le supérieur hiérarchique	der Vorgesetzte, n
 courant, usuel	gängig
 mandater, missionner pour, charger de	jn beauftragen, etwas zu tun
 la couche, la strate	die Schicht, en
@@ -1857,7 +1857,7 @@ effacer (inform.)	löschen
 annuler, abandonner (inform.)<br><i>annuler l'opération, la procédure</i>	ab|brechen (a,o)<br><i>den Vorgang abbrechen</i>
 annuler<br><i>annuler la commande du produit<br>annuler la réservation</i>	stornieren<br><i>die Bestellung der Ware stornieren<br>die Buchung stornieren</i>
 le raccourci (inform.)	die Verknüpfung, en
-l'effort, la dépense<div><i>Nous avons fait beaucoup d'efforts pour finir à temps.</i><br><div><i>Le coût de cette commande fut plus élevé que prévu.</i></div></div>	der Aufwand, ¨e<div><i>Wir haben einen großen&nbsp;Aufwand betrieben, um die Sache rechtzeitig zum Abschluss zu bringen.</i><br><div><i>Der Aufwand für diesen Auftrag war größer als erwartet.</i><br></div></div>
+l'effort, la dépense<br><i>Nous avons fait beaucoup d'efforts pour finir à temps.</i><br><i>Le coût de cette commande fut plus élevé que prévu.</i>	der Aufwand, ¨e<br><i>Wir haben einen großen Aufwand betrieben, um die Sache rechtzeitig zum Abschluss zu bringen.</i><br><i>Der Aufwand für diesen Auftrag war größer als erwartet.</i>
 mettre à jour	aktualisieren
 esquisser, dégrossir	umreißen (iss, iss)
 la commande (inform.) (2x)<div><i>la ligne de commande</i></div>	<div>das Kommando; der Befehl</div><i>die Kommandozeile</i>
@@ -1867,17 +1867,17 @@ la branche (inform.)	der Branch, es
 la branche (bot.)	der Ast, e
 le commentaire	der Kommentar, e
 le code (inform.) (2x)	der (Quell)text, e<div>der (Quell)code, s</div>
-l'accès à (inform.)<div><i>Je n'ai pas accès à ces fichiers.</i></div>	der Zugriff, e auf +A<div><i>Auf diese Dateien habe ich keinen&nbsp;Zugriff.</i><br></div>
+l'accès à (inform.)<div><i>Je n'ai pas accès à ces fichiers.</i></div>	der Zugriff, e auf +A<div><i>Auf diese Dateien habe ich keinen Zugriff.</i><br></div>
 le client, le serveur	der Client, s<div>der Server, -</div>
-le déroulement, le cours<div><i>Pouvez-vous réexpliquer le déroulement envisagé ?</i></div>	der Ablauf, ¨e<div><i>Können Sie den vorgesehenen&nbsp;Ablauf&nbsp;noch einmal erklären?</i><br></div>
+le déroulement, le cours<div><i>Pouvez-vous réexpliquer le déroulement envisagé ?</i></div>	der Ablauf, ¨e<div><i>Können Sie den vorgesehenen Ablauf noch einmal erklären?</i><br></div>
 le navigateur (inform.)	der Browser, -
-le transfert, la diffusion<div><i>Le transfert du document dure quelques secondes.</i></div>	die Übertragung, en<div><i>Die&nbsp;Übertragung&nbsp;des Dokuments dauert einige Sekunden.</i><br></div>
+le transfert, la diffusion<div><i>Le transfert du document dure quelques secondes.</i></div>	die Übertragung, en<div><i>Die Übertragung des Dokuments dauert einige Sekunden.</i><br></div>
 le pointeur (inform.)	der Zeiger, -
 adapter, réorganiser, migrer (inform.)	um|stellen
 configurer (inform.) (2x)	ein|stellen, konfigurieren
 transcrire, enregistrer, consigner dans<div><i>Cette performance lui a permis d'entrer dans le livre des records.</i></div>	ein|tragen (u,a) in +A<div><i>Mit dieser Leistung konnte er sich ins Buch der Rekorde eintragen lassen.</i><br></div>
-estimer, évaluer, jauger<div><i>En tant qu'expert, comment évaluez-vous la situation?</i></div><div><i>J'estime mes collègues très fiables.</i></div>	ein|schätzen<div><i>Wie&nbsp;schätzen&nbsp;Sie als Experte die Situation&nbsp;ein?</i><br></div><div><i>Ich&nbsp;schätze&nbsp;meine Kollegen als sehr zuverlässig&nbsp;ein.</i><br></div>
-a priori<div><i>Ce qui est clair a priori: je suis le chef et je dis comment ça se passe.</i></div>	von vornherein<div><i>Damit das&nbsp;von vornherein&nbsp;klar ist: Ich bin der Boss und sage, wo es lang geht.</i><br></div>
+estimer, évaluer, jauger<div><i>En tant qu'expert, comment évaluez-vous la situation?</i></div><div><i>J'estime mes collègues très fiables.</i></div>	ein|schätzen<div><i>Wie schätzen Sie als Experte die Situation ein?</i><br></div><div><i>Ich schätze meine Kollegen als sehr zuverlässig ein.</i><br></div>
+a priori<div><i>Ce qui est clair a priori: je suis le chef et je dis comment ça se passe.</i></div>	von vornherein<div><i>Damit das von vornherein klar ist: Ich bin der Boss und sage, wo es lang geht.</i><br></div>
 la formation, l'enseignement	die Unterweisung, en
 la fonction (math, inform.)	die Funktion, en
 le programme (inform.)	das Programm, e
@@ -1889,23 +1889,23 @@ l'antenne	die Antenne, n
 la piste, la trace<div><i>suivre une piste</i></div><div><i>être sur une fausse piste</i></div>	die Fährte, n<div><i>eine Fährte verfolgen</i></div><div><i>auf einer falschen Fährte sein</i></div>
 visser, dévisser<div><i>visser l'antenne sur le système</i></div>	schrauben, auf|schrauben<div><i>die Antenne an das System schrauben</i></div>
 l'autorisation de, l'homologation	die Genehmigung, en für +A
-l'intervention<div><i>L'intervention de la police a été vaine, car les coupables avaient déjà pris la clef des champs.</i></div>	der Einsatz, ¨e<div><i>Der&nbsp;Einsatz der Polizei&nbsp;war vergeblich, da die Täter bereits das Weite gesucht hatten.</i><br></div>
+l'intervention<div><i>L'intervention de la police a été vaine, car les coupables avaient déjà pris la clef des champs.</i></div>	der Einsatz, ¨e<div><i>Der Einsatz der Polizei war vergeblich, da die Täter bereits das Weite gesucht hatten.</i><br></div>
 ranger, mettre de l'ordre; débarrasser, évacuer<div><i>Range ta chambre!</i></div><div><i>Je dois encore vider le lave-vaisselle.</i></div>	auf|räumen; aus|räumen<div><i>Räum dein Zimmer auf!</i></div><div><i>Ich muss noch die Spülmaschine ausräumen.</i></div>
-admettre, concéder<div><i>Je dois quand même admettre que c'était finalement une bonne idée.</i></div>	ein|räumen<div><i>Ich muss doch einräumen, dass es schließlich&nbsp;</i><i>eine gute Idee war.</i></div>
+admettre, concéder<div><i>Je dois quand même admettre que c'était finalement une bonne idée.</i></div>	ein|räumen<div><i>Ich muss doch einräumen, dass es schließlich eine gute Idee war.</i></div>
 refuser, empêcher qqn de<div><i>On m'a refusé l'accès.</i></div>	jm etwas verwehren<div><i>Mir wurde den Zugang verwehrt.</i></div>
 le message (2x)<div><i>Le président a reçu cinq sur cinq le message des électeurs.</i></div><div><i>Le programme envoie le message par Bluetooth.</i></div>	die Botschaft, en; die Nachricht (en)<div><i>Der Präsident hat die Botschaft der Wähler klar und deutlich verstanden.</i></div><div><i>Das Programm sendet die Nachricht mittels Bluetooth.</i></div>
 réticent, de mauvaise grâce	widerstrebend
-l'interface (technique), la jonction<div><i>Nous devons tout d'abord nous mettre d'accord sur les interfaces.</i></div>	die Schnittstelle, n<div><i>Wir müssen uns zunächst auf die Schnittstellen&nbsp;einigen.</i><br></div>
+l'interface (technique), la jonction<div><i>Nous devons tout d'abord nous mettre d'accord sur les interfaces.</i></div>	die Schnittstelle, n<div><i>Wir müssen uns zunächst auf die Schnittstellen einigen.</i><br></div>
 la graine (qui germe)	der Samen, /
 au final, en fin de compte<div><i>Bref, au final, il faut payer.</i></div>	schlussendlich<div><i>Lange Rede, kurzer Sinn, schlussendlich muss man zahlen.</i></div>
-la miette	der&nbsp;Krümel, /
-dédié, approprié, adéquat<div><i>Pour cette fonctionnalité, il faut une fonction dédiée.</i></div>	<div>geeignet</div><i>Für diese&nbsp;Funktionalität braucht man eine geeignete Funktion.</i>
-déclencher, provoquer<br><div><i>créer une polémique</i><i><br></i></div><div><i>En activant ce paramètre, tu déclenches le mécanisme de protection.</i></div>	aus|lösen<div><i>eine&nbsp;Auseinandersetzung auslösen</i><br><div><i>Wenn du diesen Schalter&nbsp;aktivierst,&nbsp;löst du den Schutzmechanismus aus.</i></div></div>
+la miette	der Krümel, /
+dédié, approprié, adéquat<div><i>Pour cette fonctionnalité, il faut une fonction dédiée.</i></div>	<div>geeignet</div><i>Für diese Funktionalität braucht man eine geeignete Funktion.</i>
+déclencher, provoquer<br><i>créer une polémique</i><br><i>En activant ce paramètre, tu déclenches le mécanisme de protection.</i>	aus|lösen<br><i>eine Auseinandersetzung auslösen</i><br><i>Wenn du diesen Schalter aktivierst, löst du den Schutzmechanismus aus.</i>
 persévérer, s'obstiner à<br><i>Le chancelier s'obstine à rester muet sur le processus.</i>	beharren auf +D<br><i>Der Bundeskanzler aber schweigt zu dem Vorgang beharrlich.</i>
 le concours, la compétition	der Wettbewerb, e
 parier, gager, mettre au défi<div><i>le pari</i></div>	wetten<div><i>die Wette, n</i></div>
-regretter, se repentir<div><i>Le voleur regrette son action.</i></div>	bereuen<div><i>Der Dieb&nbsp;bereut&nbsp;seine Tat.</i><br></div>
-la requête, la demande<div><i>déposer un dossier</i></div>	der Antrag, ¨e<br><i>einen&nbsp;Antrag&nbsp;stellen</i><br>
+regretter, se repentir<div><i>Le voleur regrette son action.</i></div>	bereuen<div><i>Der Dieb bereut seine Tat.</i><br></div>
+la requête, la demande<div><i>déposer un dossier</i></div>	der Antrag, ¨e<br><i>einen Antrag stellen</i><br>
 la demande (de renseignements), la requête (inform.)<div><i>sur demande</i></div>	die Anfrage, n<br><i>auf Anfrage</i>
 retenir, garder en mémoire<div><i>J'ai retenu que tu aimais le chocolat.</i></div>	<div>sich +D etwas +A merken</div><i>Ich habe mir gemerkt, dass du Schokolade magst.</i>
 occasionner, infliger<br><i>Les Ukrainiens infligent à la Russie ses plus grosses pertes depuis la première semaine de la guerre.</i><br><i>causer un préjudice à qqn</i>	zu|fügen<br><i>Ukrainer fügen Russland wohl größte Verluste seit erster Kriegswoche zu.</i><br><i>jm Schaden zufügen</i>
@@ -1915,7 +1915,7 @@ intensifier, consolider, étoffer<br><i>La Chine veut consolider ses relations a
 imposer, faire prévaloir<br><i>Nous n'avons pas eu d'autres choix que d'imposer cette réforme.</i>	durch|setzen<br><i>Es blieb uns keine andere Möglichkeit, als diese Reform durchzusetzen.</i>
 soumettre<br><i>Les tribus se sont soumises au conquérant.</i><br><i>soumettre un corps à un champ magnétique</i>	unterwerfen<br><i>Die Volksstämme unterwarfen sich dem Eroberer.</i><br><i>einen Körper einem magnetischen Feld(e) unterwerfen</i>
 transporter, acheminer<br><i>Les transports publics transportent chaque jour des millions de personnes en Allemagne.</i>	befördern<br><i>Der öffentliche Personennahverkehr (ÖPNV) befördert täglich Millionen Menschen in Deutschland.</i>
-l'anomalie<br><i>Les chercheurs n'ont pu constater aucune anomalie dans les résultats de leurs mesures.</i>	die&nbsp;Auffälligkeit, en<br><i>Die Forscher konnten in ihren Messergebnissen keine Auffälligkeiten feststellen.</i>
+l'anomalie<br><i>Les chercheurs n'ont pu constater aucune anomalie dans les résultats de leurs mesures.</i>	die Auffälligkeit, en<br><i>Die Forscher konnten in ihren Messergebnissen keine Auffälligkeiten feststellen.</i>
 sobre<br><i>Il vaut mieux conduire en étant sobre.<br>un appartement aménagé sobrement</i>	nüchtern<br><i>Beim Autofahren soll man besser nüchtern sein.<br>eine nüchterne Wohnungseinrichtung</i>
 désabuser, désillusionner<br><i>Il était désabusé par cette mauvaise expérience.</i>	ernüchtern<br><i>Er war durch diese böse Erfahrung ernüchtert.</i>
 humilier<br><i>Ses mots l'ont profondément blessé et humilié.</i>	demütigen<br><i>Seine Worte haben ihn zutiefst verletzt und gedemütigt.</i>
@@ -1923,21 +1923,21 @@ le gouffre, le précipice<br><i>être au bord du gouffre</i>	der Abgrund, ¨e<br
 déclarer, annoncer, proclamer<br><i>Je proclame ainsi le musée ouvert.</i><br><i>Poutine déclare que l'Ouest est une menace.</i>	erklären für +A (Adj) / zu +D (Namen)<br><i>Hiermit erkläre ich das Museum für eröffnet.</i><br><i>Putin erklärt Westen zur Bedrohung.</i>
 le plateau, le panneau, la plaque, la dalle<br><i>un plateau de fromage</i><br><i>le panneau de fibres de bois</i><br><i>le panneau OSB (oriented strand board)</i><br><i>la dalle en béton</i>	die Platte, n<br><i>eine Platte mit Käse</i><br><i>die (Holz)Faserplatte</i><br><i>die Grobspanplatte</i><br><i>die Betonplatte</i>
 la barre, la baguette, le bâton	der Stab, ¨e
-l'encouragement, le soutien (financier, moral, émotionnel)<div><i>Il y a des aides de l'État pour l'installation de panneaux solaires.</i></div>	die Förderung, en<br><i>Es gibt&nbsp;</i><i>staatliche Förderungen f</i><i>ür den Einbau von Solarpanelen.</i>
+l'encouragement, le soutien (financier, moral, émotionnel)<div><i>Il y a des aides de l'État pour l'installation de panneaux solaires.</i></div>	die Förderung, en<br><i>Es gibt staatliche Förderungen für den Einbau von Solarpanelen.</i>
 autoriser, habiliter, donner un droit, qualifier à<div><i>Le ticket m'autorise à prendre n'importe quel transport en commun.</i></div>	berechtigen zu +D<div><i>Die Fahrkarte berechtigt mich dazu, mit allen Verkehrsmitteln zu fahren.</i><br></div>
 familier, en terrain connu, proche<br><i>Lorsque je revins à la maison, il fut bon de voir tant de visages familiers.</i><br><i>Je connais bien le fonctionnement de ce lave-linge.</i>	vertraut<br><i>Als ich wieder nach Hause kam, war es schön, so viele vertraute Gesichter zu sehen.</i><br><i>Ich bin mit der Funktionsweise dieser Waschmaschine vertraut.</i>
 l'affectation, l'attribution<br><i>On n'a pas pu attribuer l'empreinte digitale à l'un des suspects.</i>	die Zuordnung, en<br><i>Eine Zuordnung des Fingerabdrucks zu einem der Verdächtigen war nicht möglich.</i>
-ignorer, passer outre<div><i>passer qqn/qqch sous silence</i></div><div><i>Ses arguments ont simplement été ignorés.</i></div>	übergehen (i,a)<div><i>jn/etwas schweigend übergehen</i></div><div><i>Seine Argumente wurden einfach&nbsp;übergangen.<br></i></div>
-l'obsession	die&nbsp;Besessenheit, en
-exhorter, appeler à<br><div><i>Malgré des menaces, le Ministre de l'intérieur appelle à conserver son sang-froid.</i></div>	mahnen zu +D<div><i>Der Innenminister&nbsp;mahnt&nbsp;trotz Bedrohung zu Gelassenheit.</i><br></div>
+ignorer, passer outre<div><i>passer qqn/qqch sous silence</i></div><div><i>Ses arguments ont simplement été ignorés.</i></div>	übergehen (i,a)<div><i>jn/etwas schweigend übergehen</i></div><div><i>Seine Argumente wurden einfach übergangen.<br></i></div>
+l'obsession	die Besessenheit, en
+exhorter, appeler à<br><div><i>Malgré des menaces, le Ministre de l'intérieur appelle à conserver son sang-froid.</i></div>	mahnen zu +D<div><i>Der Innenminister mahnt trotz Bedrohung zu Gelassenheit.</i><br></div>
 recevable, admissible, autorisé<br><i>Ça me semble être une question tout à fait justifiée, mais je ne peux y répondre au pied levé.</i>	zulässig<br><i>Das scheint mir durchaus eine zulässige Frage zu sein, aber ich kann sie aus dem Stegreif nicht beantworten.</i>
-instructif<div><i>L'enseignant a montré plein d'exemples riches d'enseignements au tableau.</i></div>	lehrreich<div><i>Der Lehrer zeigte viele&nbsp;lehrreiche&nbsp;Beispiele an der Tafel.</i><br></div>
-isolé, épars, espacé<div><i>On voyait de temps en temps quelques fermes isolées.</i></div>	vereinzelt<br><i>Ab&nbsp;und&nbsp;zu&nbsp;sah&nbsp;man&nbsp;vereinzelte&nbsp;Bauernhöfe.</i>
+instructif<div><i>L'enseignant a montré plein d'exemples riches d'enseignements au tableau.</i></div>	lehrreich<div><i>Der Lehrer zeigte viele lehrreiche Beispiele an der Tafel.</i><br></div>
+isolé, épars, espacé<div><i>On voyait de temps en temps quelques fermes isolées.</i></div>	vereinzelt<br><i>Ab und zu sah man vereinzelte Bauernhöfe.</i>
 annuler, neutraliser<div><i>Dans cette équation, les deux termes s'annulent.</i></div>	auf|heben (o,o)<div><i>In dieser Gleichung heben sich die zwei Terme auf.</i></div>
-(se) déformer, (se) gauchir, (se) tordre<div><i>faire une grimace</i></div><div><i>Les meubles sont restés dehors et se sont complètement déformés.</i></div>	(sich) verziehen (o,o)<div><i>das Gesicht verziehen</i></div><div><i>Die Möbel standen im Freien und haben sich total&nbsp;verzogen.<br></i></div>
+(se) déformer, (se) gauchir, (se) tordre<div><i>faire une grimace</i></div><div><i>Les meubles sont restés dehors et se sont complètement déformés.</i></div>	(sich) verziehen (o,o)<div><i>das Gesicht verziehen</i></div><div><i>Die Möbel standen im Freien und haben sich total verzogen.<br></i></div>
 lasser, épuiser, démoraliser	zermürben
 transmettre, dispenser (savoir), mettre en relation<br><i>Je peux te mettre en relation avec un acheteur.</i><br><i>Ça a pris du temps de lui transmettre le sens du calcul différentiel.</i>	vermitteln<br><i>Ich könnte dir einen Käufer vermitteln.</i><br><i>Es dauerte lange, ihm den Sinn der Differentialrechnung zu vermitteln.</i>
-la suite, la continuation<div><i>la suite au prochain numéro</i></div><div><i>Il a été décidé de poursuivre les négociations.</i></div>	die&nbsp;Fortsetzung, en<div><i>Fortsetzung folgt</i><br></div><div><i>Die&nbsp;Fortsetzung&nbsp;der Verhandlung wurde beschlossen.</i><br></div>
+la suite, la continuation<div><i>la suite au prochain numéro</i></div><div><i>Il a été décidé de poursuivre les négociations.</i></div>	die Fortsetzung, en<div><i>Fortsetzung folgt</i><br></div><div><i>Die Fortsetzung der Verhandlung wurde beschlossen.</i><br></div>
 l'échec, la défaillance<br><i>Les mesures de sécurité ont échoué.</i><br><i>Les autorités attribuèrent la cause de l'accident à une erreur humaine.</i>	das Versagen, -<br><i>Die Sicherheitsmaßnahmen haben versagt.</i><br><i>Die Behörden nannten menschliches Versagen als Unglücksursache.</i>
 assigner, donner des instructions, mandater<br><i>devoir se débrouiller seul</i><br><i>Lors de mon premier jour, le contremaître m'a donné comme instructions de ne travailler qu'avec des habits de protection.</i>	an|weisen (ie,ie)<br><i>auf sich selbst angewiesen sein</i><br><i>An meinem ersten Tag hat der Vorarbeiter mich angewiesen, nur mit Schutzkleidung zu arbeiten.</i>
 la campagne militaire	der Feldzug, ¨e
@@ -1957,3 +1957,14 @@ avare	geizig
 résoudre par l'attentisme<br><i>Au lieu de prendre une décision, il attend simplement que l'affaire se résolve d'elle-même.</i>	aus|sitzen (a,e)<br><i>Statt eine Entscheidung zu treffen, sitzt er die Angelegenheit einfach aus.</i>
 délicat, risqué, sensible<div><i>Les négociations entre les deux entreprises sont entrées dans une phase délicate.</i><br></div>	heikel<div><i>Die Verhandlungen zwischen den beiden Firmen sind in eine heikle Phase betreten.</i><br></div>
 l'acceptation d'un travail (recette technique)<div><i>Le logiciel a été accepté après une phase de tests approfondis.</i></div>	die Abnahme, n<div><i>Nach einer gründlichen Testphase erfolgte die Abnahme der Software.</i></div>
+la réticence, la réserve<div><i>sans réserve</i></div><div><i>émettre des réserves sur</i></div><div><i>Mon chef m'a annoncé qu'il me promouvra, sous condition.</i></div>	der Vorbehalt, e<div><i>ohne Vorbehalte</i></div><div><i>etwas +D gegenüber einen Vorbehalt äußern</i></div><div><i>Mein Vorgesetzter teilte mir mit, mich unter Vorbehalt zu befördern.</i></div>
+faire des manières<div><i>Elle a fait sa précieuse.</i></div>	sich zieren<div><i>Sie zierte sich.</i></div>
+d'emblée, aisément, d'office	ohne Weiteres
+se rendre compte de, réaliser<div><i>Hanna s'est tout à fait rendu compte du danger.</i></div>	sich über etwas +A im Klaren sein<div><i>Hanna war sich über die Gefahr durchaus im Klaren.</i><br></div>
+considérable, important, fortement<div><i>L'accident a causé des dégâts considérables.</i></div>	erheblich<div><i>Der Unfall brachte einen erheblichen Schaden.</i></div>
+le don<div><i>lancer un appel aux dons</i></div>	die Spende, n<div><i>zu Spenden aufrufen</i></div>
+l'échantillonnage<div><i>La fréquence d'échantillonnage des CDs audio s'élève à 44.1kHz.</i></div>	die Abtastung, en<div><i>Die Abtastfrequenz von Audio-CDs beträgt 44.1 kHz.</i><br></div>
+traîner, tracter<br><i>Le remorqueur tracte le cargo hors du chenal vers le port intérieur.</i><br><i>Elle traîne son fiancé à chaque vernissage.</i><br><i>Et je dois trimballer seul la caisse de bière jusqu'au deuxième étage?</i>	schleppen<br><i>Der Schlepper schleppte den Frachter aus der Fahrrinne in den Binnenhafen.</i><br><i>Sie schleppt ihren Verlobten auch auf jede Vernissage.</i><br><i>Und ich soll alleine die Bierkiste in den zweiten Stock schleppen?</i>
+au détriment de, à la charge de<div><i>La sécurité de l'Ukraine ne doit pas se faire au détriment des besoins russes.</i></div>	zulasten +G<div><i>Die Sicherheit der Ukraine darf nicht zulasten der russischen Bedürfnisse gehen.</i><br></div>
+confidentiel<div><i>Des informations confidentielles ont été divulguées à la presse.</i></div>	vertraulich<div><i>Vertrauliche Informationen wurden der Presse bekanntgegeben.</i></div>
+être à la mesure de qqch<div><i>se mettre en conformité</i><br><div><i>Avec quelques modifications, l'aire de jeu a répondu aux attentes des enfants.</i></div></div>	etwas +D gerecht werden<div><i>den Regeln gerecht werden</i></div><div><i>Durch kleine Änderungen wurde der Spielplatz den Ansprüchen der Kinder gerecht.</i><br></div>
