@@ -1587,7 +1587,7 @@ préparé à<div><i>Je ne m'attendais pas à cette nouvelle.</i></div>	gefasst a
 significatif de, révélateur de<div><i>Cette remarque est révélatrice de lui.</i></div><div><i>Ces couleurs claires sont typiques de ce peintre.</i></div>	bezeichnend für +A<div><i>Diese Bemerkung ist bezeichnend für ihn.</i></div><div><i>Für diesen Maler sind die klaren Farben bezeichnend.</i></div>
 caractéristique, typique (2x) de<div><i>Ces maisons sont typiques de la Bavière.</i></div><div><i>Ce comportement niais est typique d'elle.</i></div>	charakteristisch, typisch für +A<div><i>Diese Häuser sind typisch für Bayern.</i></div><div><i>Dieses alberne Benehmen ist für sie sehr charakteristisch.</i></div>
 compétent, qualifié pour<div><i>Je ne suis pas compétent pour ce problème.</i></div>	zuständig für +A<div><i>Ich bin für dieses Problem nicht zuständig.</i></div>
-sujet à, prédisposé à<div><i>Il est sujet à des refroidissements.</i></div>	anfällig für +A<div><i>Er ist anfällig für Erkältungen.</i></div>
+sujet à, prédisposé à<div><i>sujet aux erreurs</i></div><div><i>Il est sujet à des refroidissements.</i></div>	anfällig für +A<div><i>fehleranfällig</i><br><div><i>Er ist anfällig für Erkältungen.</i></div></div>
 peiné de<div><i>Il était très peiné de la mort de son ami.</i></div>	betrübt über +A<div><i>Er war sehr betrübt über den Tod seines Freundes.</i></div>
 dommage pour<div><i>C'est vraiment dommage pour lui.</i></div>	schade um +A<div><i>Es ist wirklich schade um ihn.</i></div>
 coûter qqch à qqn<div><i>Cela te coûtera beaucoup d'argent.</i></div>	jn etwas kosten<div><i>Das wird dich viel Geld kosten.</i></div>
@@ -1972,3 +1972,12 @@ compréhensible, concevable<div><i>suivre un raisonnement</i><br><div><i>Son com
 au profit de, en faveur de<div><i>Cette fois, j'y ai renoncé en faveur de mon ami.</i></div>	<div>zugunsten +G</div><i>Diesmal habe ich zugunsten meines Freundes darauf verzichtet.</i>
 l'urgence<div><i>en cas d'urgence</i></div><div><i>l'urgence absolue</i></div>	der Notfall, ¨e<div><i>im Notfall</i></div><div><i>akuter Notfall</i></div>
 la jalousie (peur d'en avoir moins que les autres)<div><i>Sa collègue manifestait clairement de l'envie face à sa promotion.</i><br></div>	der Futterneid, /<div><i>Ihre Kollegin zeigte offensichtlich Futterneid, als sie sah, dass sie befördert wurde.</i><br></div>
+la chape	der Estrich, e
+le rideau	der Vorhang, ¨e
+le volet	der (Fenster-)Laden, ¨
+l'instruction<div><i>Le manuel présente les instructions d'emploi de l'appareil.</i></div>	die Anleitung, en<div><i>Das Handbuch stellt eine Anleitung des Gerätes dar.</i></div>
+le panier<div><i>Ils ont apporté à leur grand-mère un panier rempli de pommes rouges.</i></div>	der Korb, ¨e<div><i>Sie brachten ihrer Großmutter einen Korb voll roter Äpfel.</i></div>
+amaigrir, ronger qqch<div><i>L'inflation ronge le pouvoir d'achat des consommateurs.</i></div>	zehren an +D<div><i>Die hohe Inflation zehrt an der Kaufkraft der Verbraucher.</i><br></div>
+supposé, présumé<div><i>L'auteur présumé est lui-même père de deux enfants.</i></div>	mutmaßlich<div><i>Der mutmaßliche Täter ist selbst Vater von zwei Kindern.</i><br></div>
+polémique, explosif (figuré)	brisant
+se dérouler, se passer<div><i>Comment donc se déroulera la préparation de l'événement?</i></div>	vonstatten|gehen (i,a)<div><i>Wie soll denn die Vorbereitung des Ereignisses vonstattengehen?</i></div>
