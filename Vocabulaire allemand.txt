@@ -376,7 +376,7 @@ l'incident (2x)	der Zwischenfall, ¨e (interruption du contexte); der Vorfall, �
 devenir<div><i>Les jours s'allongent.</i></div><div><i>Cela doit changer.</i></div><div><i>À 40 ans, il devint directeur.</i></div><div><i>Après cette invention, il est devenu un savant célèbre.</i></div>	werden (i,u,ist o)<div><i>Die Tage werden länger.</i></div><div><i>Das muss anders werden.</i></div><div><i>Mit 40 Jahren wurde er Direktor.</i></div><div><i>Nach dieser Erfindung ist er ein berühmter Gelehrter geworden.</i></div>
 se former, prendre naissance<div><i>On ne sait pas exactement comment la vie a fait son apparition sur Terre.</i></div><div><i>Il ne faut pas qu'il y ait de malentendu.</i></div>	entstehen (an,ist an)<div><i>Man weiß nicht genau, wie das Leben auf der Erde entstanden ist.</i></div><div><i>Es soll kein Missverständnis entstehen.</i></div>
 la naissance (non animée), la genèse, la formation	die Entstehung, /
-tout à coup, soundain	plötzlich
+tout à coup, soudain	plötzlich
 peu à peu (2x)	allmählich; nach und nach
 développer<div><i>L'entreprise se développa très rapidement.</i></div><div><i>développer un film</i></div>	entwickeln, ich entwickle, er entwickelt<div><i>Das Unternehmen entwickelte sich sehr rasch.</i></div><div><i>einen Film entwickeln</i></div>
 le développement, l'évolution	die Entwicklung, en
@@ -1743,7 +1743,7 @@ l'évaluation	die Bewertung, en
 autonome, à part entière	eigenständig
 la pénurie (2x) ; la concision, le laconisme	die Verknappung; die Knappheit
 l'encadrement, l'accompagnement, la prise en charge<br><i>encadrer un stagiaire</i>	die Betreuung, en<br><i>einen Praktikanten betreuen</i>
-la prétention à, l'exigence, la réclamation<br><i>revendiquer</i><i>réclamer qqch</i><br><i>s'attribuer (légitimement ou non)</i><i>le droit de/à</i><i><br></i><i>avoir (légitimement) le droit de/à</i><i><br>exigeant, prestigieux</i>	der Anspruch, ¨e<br><i>auf etwas (+A) Anspruch erheben</i><br><i>etwas (+A) für sich in Anspruch nehmen</i><br><i>auf etwas (+A) Anspruch habe</i><i>n</i><i><br>anspruchsvoll</i>
+la prétention à, l'exigence, la réclamation<br><i>revendiquer/réclamer qqch</i><br><i>s'attribuer (légitimement ou non) le droit de/à</i><br><i>avoir (légitimement) le droit de/à</i><br><i>exigeant, prestigieux</i>	der Anspruch, ¨e<br><i>auf etwas (+A) Anspruch erheben</i><br><i>etwas (+A) für sich in Anspruch nehmen</i><br><i>auf etwas (+A) Anspruch haben</i><br><i>anspruchsvoll</i>
 le rapport, la relation, la référence<br><i>Par rapport à quoi ? Par rapport au projet.<i><br><i>En ce qui concerne ce projet, je pense que...</i></i></i>	der Bezug, ¨e<br><i>In Bezug worauf? In Bezug auf das Projekt.<i><br><i>Bezüglich des Projekts denke ich, dass...<i></i></i></i></i>
 rancunier	nachtragend
 la prise en compte, l'intégration<div><i>compte-tenu des circonstances</i></div><div><i>Il n'est malheureusement pas possible actuellement de prendre en compte votre demande.</i></div>	die Berücksichtigung, en<div><i>unter Berücksichtigung der Umstände</i></div><div><i>Eine Berücksichtigung Ihres Antrags ist zurzeit leider nicht möglich.</i></div>
@@ -1960,7 +1960,7 @@ l'acceptation d'un travail (recette technique)<div><i>Le logiciel a été accept
 la réticence, la réserve<div><i>sans réserve</i></div><div><i>émettre des réserves sur</i></div><div><i>Mon chef m'a annoncé qu'il me promeut, sous condition.</i></div>	der Vorbehalt, e<div><i>ohne Vorbehalte</i></div><div><i>etwas +D gegenüber einen Vorbehalt äußern</i></div><div><i>Mein Vorgesetzter teilte mir mit, mich unter Vorbehalt zu befördern.</i></div>
 faire des manières<div><i>Elle a fait sa précieuse.</i></div>	sich zieren<div><i>Sie zierte sich.</i></div>
 d'emblée, aisément, d'office	ohne Weiteres
-se rendre compte de, réaliser<div><i>Hanna s'est tout à fait rendu compte du danger.</i></div>	sich über etwas +A im Klaren sein<div><i>Hanna war sich über die Gefahr durchaus im Klaren.</i><br></div>
+se rendre compte de, réaliser<div><i>Hanna s'est tout à fait rendu compte du danger.</i></div>	sich +D über etwas +A im Klaren sein<div><i>Hanna war sich über die Gefahr durchaus im Klaren.</i><br></div>
 considérable, important, fortement<div><i>L'accident a causé des dégâts considérables.</i></div>	erheblich<div><i>Der Unfall brachte einen erheblichen Schaden.</i></div>
 le don<div><i>lancer un appel aux dons</i></div>	die Spende, n<div><i>zu Spenden aufrufen</i></div>
 l'échantillonnage<div><i>La fréquence d'échantillonnage des CDs audio s'élève à 44.1kHz.</i></div>	die Abtastung, en<div><i>Die Abtastfrequenz von Audio-CDs beträgt 44.1kHz.</i><br></div>
@@ -1977,7 +1977,39 @@ le rideau	der Vorhang, ¨e
 le volet	der (Fenster-)Laden, ¨
 l'instruction<div><i>Le manuel présente les instructions d'emploi de l'appareil.</i></div>	die Anleitung, en<div><i>Das Handbuch stellt eine Anleitung des Gerätes dar.</i></div>
 le panier<div><i>Ils ont apporté à leur grand-mère un panier rempli de pommes rouges.</i></div>	der Korb, ¨e<div><i>Sie brachten ihrer Großmutter einen Korb voll roter Äpfel.</i></div>
-amaigrir, ronger qqch<div><i>L'inflation ronge le pouvoir d'achat des consommateurs.</i></div>	zehren an +D<div><i>Die hohe Inflation zehrt an der Kaufkraft der Verbraucher.</i><br></div>
+amaigrir, ronger qqch<div><i>L'inflation élevée ronge le pouvoir d'achat des consommateurs.</i></div>	zehren an +D<div><i>Die hohe Inflation zehrt an der Kaufkraft der Verbraucher.</i><br></div>
 supposé, présumé<div><i>L'auteur présumé est lui-même père de deux enfants.</i></div>	mutmaßlich<div><i>Der mutmaßliche Täter ist selbst Vater von zwei Kindern.</i><br></div>
 polémique, explosif (figuré)	brisant
 se dérouler, se passer<div><i>Comment donc se déroulera la préparation de l'événement?</i></div>	vonstatten|gehen (i,a)<div><i>Wie soll denn die Vorbereitung des Ereignisses vonstattengehen?</i></div>
+l'argile	der Ton, e
+le limon	der Lehm, e
+le sable	der Sand, e
+émoussé<div><i>un angle obtus</i></div>	stumpf<div><i>ein stumpfer Winkel</i></div>
+au pire<div><i>Au pire, nous aurons deux heures de retard.</i></div>	schlimmstenfalls<div><i>Schlimmstenfalls werden wir zwei Stunden Verspätung haben.</i></div>
+le robinet	der Hahn, ¨e
+le mortier	der Mörtel, -
+le ciment	der Zement, -
+l'enduit, le crépi	der Putz, -
+en saillie / encastré	auf Putz / unter Putz
+la spatule, le couteau à enduire<div><i>l'enduit</i></div>	der Spachtel, /<div><i>die Spachtelmasse</i></div>
+le joint (bâtiment)	die Fuge, n
+la cheville (bâtiment)	der Dübel, /
+l'acoustique, le son (technique)<div><i>Le son de la musique remplissait la pièce.</i><br></div>	der Schall, e<div><i>Der Schall der Musik füllte den Raum.</i><br></div>
+horizontal	waagerecht
+vertical	senkrecht
+dépasser (géom.)<div><i>La tige dépasse de 5 cm du mur.</i></div>	<div>heraus|ragen</div><i>Die Stange ragt 5 cm aus der Mauer heraus.</i>
+sournois, insidieux<div><i>L'attaque sournoise a surpris tout le monde.</i><br></div>	heimtückisch<br><i>Der heimtückische Angriff überraschte alle.</i><br>
+représenter, illustrer<div><i>Les villes sont représentées sur la carte par des points rouges.</i></div><div><i>Elle a la capacité d'illustrer ses arguments de manière claire et convaincante.</i></div><div><i>Les harmoniques sphériques sont une représentation de SO(3).</i></div>	dar|stellen<div><i>Die Städte sind auf der Karte als rote Punkte dargestellt.<br>Sie vermag es, ihre Argumente klar und überzeugend darzustellen.</i><br></div><div><i>Die Kugelflächenfunktionen sind eine Darstellung von SO(3).</i></div>
+le bruit (sciences et techniques)	das Rauschen
+envelopper dans; embobiner<div><i>J'ai enveloppé le verre dans le film plastique pour qu'il ne se brise pas.</i></div><div><i>Ne te laisse pas embobiner par ses belles promesses.</i></div>	ein|wickeln in +A<div><i>Ich wickelte das Glas in die Plastikfolie ein, damit es nicht zerbricht.<br>Lass dich nicht von seinen leeren Versprechungen einwickeln.</i><br></div>
+la tige, la barre<div><i>Nos fenêtres sont sécurisées par des barres verticales en fer forgé.</i></div>	die Stange, n<div><i>Unsere Fenster haben zur Sicherheit senkrechte&nbsp;schmiedeeiserne&nbsp;Stangen.</i></div>
+éclairant (explication)<i><br>La présentation du professeur a été très éclairante.</i>	aufschlussreich<i><br>Der Vortrag des Dozenten war sehr aufschlussreich.</i>
+aligner, braquer<br><i>Aligne la carte avec le Nord.<br>Nous devons braquer l'antenne vers les satellites.</i>	aus|richten nach +D, auf +A<br><i>Richte die Landkarte nach Norden aus.<br>Wir müssen die Antenne auf den Satelliten ausrichten.</i>
+boucher, colmater, gaver<br><div><i>Il faut boucher les trous dans le mur avec du mastic.</i><br></div>	stopfen<div><i>Die Löcher in der Wand müssen mit Spachtelmasse gestopft werden.</i><br></div>
+user, mettre à l'épreuve, épuiser<br><i>La randonnée a été éprouvante pour mes jambes.<br>Ses retards constants mettent les nerfs de ses collègues à rude épreuve.</i>	strapazieren<br><i>Die Wanderung hat meine Beine strapaziert.<br>Seine ständigen Verspätungen strapazieren die Nerven seiner Kollegen.</i>
+mettre sur le compte de, renvoyer la faute sur<br><i>Il essaie toujours de rejeter la responsabilité sur les autres.<br>On ne peut pas attribuer tous les problèmes à l'économie.</i><br>	schieben auf +A<br><i>Er versucht immer, die Verantwortung auf andere zu schieben.<br>Man kann nicht alle Probleme auf die Wirtschaft schieben.</i>
+réduire, limiter, brider<br><i>Pour réduire les nuisances sonores, nous devons baisser le volume de la musique le soir.<br>L'approvisionnement en eau du jardin est réduit pendant les périodes de sécheresse.</i>	drosseln<br><i>Um die Lärmbelästigung zu reduzieren, sollen wir die Musik am Abend drosseln.<br>In Trockenzeiten wird die Wasserzufuhr für den Garten gedrosselt.</i>
+assimilier, identifier<br><i>Les politiciens tentent d'associer la justice sociale au progrès économique.<br>Beaucoup de gens ont tendance à assimiler le succès au bonheur.<br>Le professeur a expliqué comment résoudre des équations en égalisant les termes.</i>	gleich|setzen<br><i>Die Politiker versuchen, soziale Gerechtigkeit mit wirtschaftlichem Fortschritt gleichzusetzen.<br>Viele Menschen neigen dazu, Erfolg mit Glück gleichzusetzen.<br>Der Lehrer erklärte, wie man Gleichungen durch das Gleichsetzen von Termen lösen kann.</i>
+assigner, attribuer<br><i>La société attribuera les projets à différentes équipes.<br>Le prix a été attribué à l'artiste talentueux.</i>	vergeben (a,e) an +A<br><i>Die Firma wird die Projekte an verschiedene Teams vergeben.<br>Der Preis wurde an den talentierten Künstler vergeben.</i>
+se mêler de, intervenir dans<br><i>Il est important de ne pas se mêler des affaires familiales.</i>	sich ein|mischen in +A<br><i>Es ist wichtig, sich in familiäre Angelegenheiten nicht einzumischen.</i>
+le son, le timbre (musical)<br><i>Le son des cloches de l'église crée une atmosphère solennelle.</i><br>	der Klang, ¨e<br><i>Der Klang der Kirchenglocken verbreitet eine feierliche Atmosphäre.</i><br>
